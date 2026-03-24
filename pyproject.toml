@@ -1,0 +1,16 @@
+[project]
+name = "hlt26"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.11.0",
+    "transformers>=5.3.0",
+    "wordfreq>=3.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]

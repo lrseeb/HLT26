@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "jupyter>=1.1.1",
+    "matplot>=0.1.9",
+    "scikit-learn>=1.8.0",
     "torch>=2.11.0",
     "transformers>=5.3.0",
     "wordfreq>=3.1.1",

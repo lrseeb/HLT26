@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "datasets>=4.8.4",
+    "evaluate>=0.4.6",
     "jupyter>=1.1.1",
     "matplot>=0.1.9",
     "scikit-learn>=1.8.0",

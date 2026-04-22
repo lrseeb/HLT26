@@ -10,6 +10,7 @@ dependencies = [
     "gensim>=4.4.0",
     "jupyter>=1.1.1",
     "matplot>=0.1.9",
+    "more-itertools>=10.8.0",
     "numpy>=2.4.3",
     "scikit-learn>=1.8.0",
     "tabulate>=0.10.0",
